@@ -1,0 +1,73 @@
+
+    *{
+        box-sizing: border-box;
+      }
+    
+
+form{
+    width:450px;
+    height:450px;
+    background-color:#ffffff;
+    margin:auto;
+    padding:30px;
+    border-radius:3px;
+    border:solid 1px gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+
+    width:310px;
+    height:30px;
+    border-radius:3px;
+}
+
+input.checkbox{
+ width:12px;
+ height:12px;
+
+}
+
+#Continue {    
+color:rgb(255, 255, 255);
+font-size: 10px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color:#3165d6;
+    
+}
+
+h1{
+    color:#3F9BBF;
+    font-size:25px;
+    font-family:serif, sans-serif, cursive, fantasy, monospace; 
+    text-align: center;
+}
+
+
+h5{
+    color:#3F9BBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:13px;
+    text-align: center;
+
+}
+
+
+p.blue{
+    color:#3F9BBF;
+    font-size:12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:right;
+}
+
+h6{
+    color:rgba(128, 128, 128, 0.979);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+
+span{
+ color:black;
+ font-size:14px;
+}
